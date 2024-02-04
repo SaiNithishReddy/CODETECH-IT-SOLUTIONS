@@ -1,5 +1,5 @@
 # CODETECH-IT-SOLUTIONS
-I am grateful that CODETECH-IT-SOLUTIONS Java Development gave me the chance to intern there. The Oasis Infobyte internship program gave participants a useful perspective on how Java projects in the real world are carried out. We, the participants, were able to learn a variety of Java development skills through this training that would be extremely beneficial in our careers.
+I am grateful that CODETECH-IT-SOLUTIONS Java Development gave me the chance to intern there. The CODETECH-IT-SOLUTIONS internship program gave participants a useful perspective on how Java projects in the real world are carried out. We, the participants, were able to learn a variety of Java development skills through this training that would be extremely beneficial in our careers.
 
 # TASK - 1 Tic-Tac-Toe Game:
 Develop a text-based Tic-Tac-Toe game where two players take turns placing their marks on a 3x3 grid. The program should check for wins, draws, and handle invalid moves.
